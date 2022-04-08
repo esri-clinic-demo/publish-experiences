@@ -1,22 +1,21 @@
 {
-  "created": 1643047533274,
+  "created": 1649224941448,
   "description": "",
   "id": "1",
-  "modified": 1643047633218,
-  "owner": "GRehkemper@esri.com_prof_services",
+  "modified": 1649361942651,
+  "owner": "ashley.hmc.k12",
   "tags": [],
   "thumbnail": null,
-  "title": "Add Layers",
+  "title": "Climate Change",
   "type": "Web Experience",
   "snippet": "",
   "typeKeywords": [
     "EXB Experience",
     "Ready To Use",
     "JavaScript",
-    "status: Published",
+    "status: Draft",
     "version:1.7.0"
   ],
-  "portalUrl": "https://prof-services.maps.arcgis.com",
-  "username": "GRehkemper@esri.com_prof_services",
-  "url": null
+  "portalUrl": "https://k12.maps.arcgis.com",
+  "username": "ashley.hmc.k12"
 }
