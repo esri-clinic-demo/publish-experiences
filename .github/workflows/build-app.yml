@@ -27,6 +27,8 @@ jobs:
       - name: NPM install client folder
         run: npm ci
         working-directory: arcgis-experience-builder-1.7/ArcGISExperienceBuilder/client
+      - name: Install External Libraries
+        run: npm i react-beautiful-dnd & npm i dompurify
       - name: NPM install in server folder
         run: npm ci
         working-directory: arcgis-experience-builder-1.7/ArcGISExperienceBuilder/server
