@@ -2,7 +2,7 @@
   "created": 1649224941448,
   "description": "",
   "id": "1",
-  "modified": 1649361942651,
+  "modified": 1649625484666,
   "owner": "ashley.hmc.k12",
   "tags": [],
   "thumbnail": null,
@@ -13,9 +13,10 @@
     "EXB Experience",
     "Ready To Use",
     "JavaScript",
-    "status: Draft",
+    "status: Published",
     "version:1.7.0"
   ],
   "portalUrl": "https://k12.maps.arcgis.com",
-  "username": "ashley.hmc.k12"
+  "username": "ashley.hmc.k12",
+  "url": null
 }
