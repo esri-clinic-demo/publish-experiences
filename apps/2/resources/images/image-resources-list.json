@@ -1,0 +1,30 @@
+{
+  "1649827387697": {
+    "originalName": "Screen Shot 2022-04-12 at 10.22.57 PM.png",
+    "fileName": "1649827387697.png",
+    "size": 293933,
+    "url": "${appResourceUrl}/images/widget_59/1649827387697.png",
+    "created": 1649827387697,
+    "resourcesPrefix": "images/widget_59",
+    "referedIds": [],
+    "originId": "1649827387697",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 1074,
+    "originalHeight": 332
+  },
+  "1649827551648": {
+    "originalName": "2external-content.duckduckgo.com.jpg",
+    "fileName": "1649827551648.jpg",
+    "size": 123458,
+    "url": "${appResourceUrl}/images/widget_61/1649827551648.jpg",
+    "created": 1649827551648,
+    "resourcesPrefix": "images/widget_61",
+    "referedIds": [],
+    "originId": "1649827551648",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1600,
+    "originalHeight": 1200
+  }
+}

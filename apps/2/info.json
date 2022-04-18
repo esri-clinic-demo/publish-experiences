@@ -1,12 +1,12 @@
 {
-  "created": 1649224941448,
+  "created": 1649634449735,
   "description": "",
-  "id": "1",
-  "modified": 1649625484666,
-  "owner": "ashley.hmc.k12",
+  "id": "2",
+  "modified": 1649878913506,
+  "owner": "lee.hmc.k12",
   "tags": [],
   "thumbnail": null,
-  "title": "Climate Change",
+  "title": "Experience Builder Demo",
   "type": "Web Experience",
   "snippet": "",
   "typeKeywords": [
@@ -17,6 +17,6 @@
     "version:1.7.0"
   ],
   "portalUrl": "https://k12.maps.arcgis.com",
-  "username": "ashley.hmc.k12",
+  "username": "lee.hmc.k12",
   "url": null
 }
