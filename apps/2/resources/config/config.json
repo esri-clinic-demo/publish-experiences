@@ -23,7 +23,7 @@
       "label": "Page 2",
       "header": false,
       "footer": false,
-      "bodyBackgroundColor": "#ffffff"
+      "bodyBackgroundColor": "var(--primary-200)"
     },
     "page_2": {
       "id": "page_2",
@@ -201,8 +201,8 @@
           "bbox": {
             "left": "23.0%",
             "right": "20.0%",
-            "top": "1.6%",
-            "bottom": "88.1%",
+            "top": "5.1%",
+            "bottom": "84.6%",
             "width": "57.0%",
             "height": "10.3%"
           },
@@ -244,32 +244,133 @@
         },
         "2": {
           "type": "WIDGET",
-          "bbox": {
-            "left": "82.6%",
-            "right": "2.8%",
-            "top": "92.0%",
-            "bottom": "2.3%",
-            "width": "14.6%",
-            "height": "5.7%"
-          },
-          "widgetId": "widget_3",
           "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
             "autoProps": {
-              "right": false,
-              "left": true,
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "bbox": {
+            "left": "14.2%",
+            "right": "68.2%",
+            "top": "24.8%",
+            "bottom": "65.5%",
+            "width": "17.6%",
+            "height": "9.7%"
+          },
+          "widgetId": "widget_105",
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "bbox": {
+            "left": "14.2%",
+            "right": "68.2%",
+            "top": "35.5%",
+            "bottom": "54.4%",
+            "width": "17.6%",
+            "height": "10.1%"
+          },
+          "widgetId": "widget_106",
+          "isPending": false
+        },
+        "4": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
               "top": true,
               "bottom": false
-            },
-            "vCenter": false,
-            "hCenter": false
+            }
           },
+          "bbox": {
+            "left": "14.2%",
+            "right": "68.2%",
+            "top": "46.5%",
+            "bottom": "43.4%",
+            "width": "17.6%",
+            "height": "10.1%"
+          },
+          "widgetId": "widget_107",
+          "isPending": false
+        },
+        "5": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "14.2%",
+            "right": "68.2%",
+            "top": "57.6%",
+            "bottom": "32.3%",
+            "width": "17.6%",
+            "height": "10.1%"
+          },
+          "widgetId": "widget_108",
+          "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "14.2%",
+            "right": "68.2%",
+            "top": "68.7%",
+            "bottom": "21.2%",
+            "width": "17.6%",
+            "height": "10.1%"
+          },
+          "widgetId": "widget_109",
           "isPending": false
         }
       },
       "order": [
         "1",
         "0",
-        "2"
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
       ]
     },
     "layout_1": {
@@ -512,9 +613,9 @@
             "left": "3.4%",
             "right": "51.3%",
             "top": "4.0%",
-            "bottom": "80.7%",
+            "bottom": "76.7%",
             "width": "45.3%",
-            "height": "15.3%"
+            "height": "19.3%"
           },
           "widgetId": "widget_8",
           "setting": {
@@ -753,12 +854,12 @@
         "4": {
           "type": "WIDGET",
           "bbox": {
-            "left": "45.0%",
-            "right": "35.5%",
-            "top": "25.3%",
-            "bottom": "-0.2%",
-            "width": "19.5%",
-            "height": "75.0%"
+            "left": "44.5%",
+            "right": "36.1%",
+            "top": "28.4%",
+            "bottom": "26.5%",
+            "width": "19.4%",
+            "height": "45.1%"
           },
           "widgetId": "widget_18",
           "setting": {
@@ -886,12 +987,12 @@
         "4": {
           "type": "WIDGET",
           "bbox": {
-            "left": "41.3%",
-            "right": "39.2%",
-            "top": "22.5%",
-            "bottom": "2.5%",
-            "width": "19.5%",
-            "height": "75.0%"
+            "left": "37.4%",
+            "right": "37.1%",
+            "top": "16.4%",
+            "bottom": "1.4%",
+            "width": "25.5%",
+            "height": "82.2%"
           },
           "widgetId": "widget_23",
           "setting": {
@@ -1273,13 +1374,63 @@
             "hCenter": false
           },
           "isPending": false
+        },
+        "5": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "2.4%",
+            "right": "87.7%",
+            "top": "92.1%",
+            "bottom": "3.5%",
+            "width": "9.9%",
+            "height": "4.4%"
+          },
+          "widgetId": "widget_102",
+          "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "94.2%",
+            "right": "1.6%",
+            "top": "91.2%",
+            "bottom": "2.6%",
+            "width": "4.2%",
+            "height": "6.2%"
+          },
+          "widgetId": "widget_103",
+          "isPending": false
         }
       },
       "order": [
         "0",
         "2",
         "3",
-        "4"
+        "4",
+        "5",
+        "6"
       ]
     },
     "layout_14": {
@@ -1853,17 +2004,17 @@
             "left": "40.7%",
             "right": "37.1%",
             "top": "3.1%",
-            "bottom": "5.5%",
+            "bottom": "2.0%",
             "width": "22.2%",
-            "height": "91.4%"
+            "height": "94.9%"
           },
           "widgetId": "widget_53",
           "setting": {
             "autoProps": {
               "right": false,
               "left": true,
-              "top": false,
-              "bottom": true
+              "top": true,
+              "bottom": false
             },
             "vCenter": false,
             "hCenter": false
@@ -2301,17 +2452,17 @@
             "left": "48.1%",
             "right": "3.1%",
             "top": "5.3%",
-            "bottom": "3.5%",
+            "bottom": "12.1%",
             "width": "48.8%",
-            "height": "91.2%"
+            "height": "82.6%"
           },
           "widgetId": "widget_73",
           "setting": {
             "autoProps": {
               "right": false,
               "left": true,
-              "top": true,
-              "bottom": false
+              "top": false,
+              "bottom": true
             },
             "vCenter": false,
             "hCenter": false
@@ -2590,6 +2741,30 @@
               "bottom": false
             }
           }
+        },
+        "14": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "92.7%",
+            "right": "3.1%",
+            "top": "90.8%",
+            "bottom": "2.9%",
+            "width": "4.2%",
+            "height": "6.2%"
+          },
+          "widgetId": "widget_104",
+          "isPending": false
         }
       },
       "order": [
@@ -2606,7 +2781,8 @@
         "10",
         "11",
         "12",
-        "13"
+        "13",
+        "14"
       ]
     },
     "layout_25": {
@@ -2666,49 +2842,6 @@
         "styleConfig": {}
       },
       "id": "widget_2"
-    },
-    "widget_3": {
-      "uri": "widgets/common/button/",
-      "version": "1.7.0",
-      "label": "Button 1",
-      "config": {
-        "functionConfig": {
-          "toolTip": "",
-          "toolTipExpression": null,
-          "text": "Enter",
-          "textExpression": null,
-          "icon": {
-            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1 7.5c0-.291.231-.527.516-.527h11.508L9.527 3.4a.535.535 0 010-.746.508.508 0 01.73 0L15 7.5l-4.743 4.846a.508.508 0 01-.73 0 .535.535 0 010-.746l3.497-3.573H1.516A.522.522 0 011 7.5z\" fill=\"#000\"></path></svg>",
-            "position": "LEFT"
-          },
-          "linkParam": {
-            "linkType": "PAGE",
-            "value": "page_1",
-            "openType": "_self"
-          }
-        },
-        "styleConfig": {
-          "themeStyle": {
-            "quickStyleType": "primary"
-          },
-          "customStyle": {
-            "regular": {
-              "iconProps": {
-                "color": "#fff",
-                "size": 14
-              }
-            },
-            "hover": {
-              "iconProps": {
-                "size": 14
-              }
-            }
-          },
-          "useCustom": false
-        }
-      },
-      "id": "widget_3",
-      "useDataSources": []
     },
     "widget_4": {
       "uri": "widgets/common/text/",
@@ -3148,7 +3281,7 @@
       "version": "1.7.0",
       "label": "Text 6",
       "config": {
-        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 20px; font-family: Calibri;\">Question 1</strong></p><p><span style=\"font-size: 20px; font-family: Calibri;\">Let us say our location is Timbuktu which is in the GMT timezone. If it is 10am in Timbuktu , what time is it in Japan? On the west coast of America? Let’s say you are given functions to find the timezone of the country, as well as the UTC number: </span><strong style=\"font-size: 20px; font-family: Calibri;\">findTimezone</strong><span style=\"font-size: 20px; font-family: Calibri;\">(country) and </span><strong style=\"font-size: 20px; font-family: Calibri;\">findUTC</strong><span style=\"font-size: 20px; font-family: Calibri;\">(timezone).</span></p>",
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-family: Calibri; font-size: 20px;\">Question 1</strong></p><p><span style=\"font-family: Calibri; font-size: 20px;\">Let us say our location is Timbuktu which is in the GMT timezone. If it is 10am in Timbuktu, what time is it in Japan? On the west coast of America? Let’s say you are given functions to find the timezone of the country, as well as the UTC number: </span><strong style=\"font-family: Calibri; font-size: 20px;\">findTimezone</strong><span style=\"font-family: Calibri; font-size: 20px;\">(country) and </span><strong style=\"font-family: Calibri; font-size: 20px;\">findUTC</strong><span style=\"font-family: Calibri; font-size: 20px;\">(timezone).</span></p>",
         "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
@@ -3193,7 +3326,7 @@
       "config": {
         "instructText": [
           "Save current Timbuktu time in variable",
-          "Find out what timezone the second city is",
+          "Find out what timezone Japan is in",
           "Find the UTC value of that country",
           "Add the value to the stored time"
         ],
@@ -3880,7 +4013,7 @@
           },
           "linkParam": {
             "linkType": "PAGE",
-            "value": "page_8",
+            "value": "page_10",
             "openType": "_self"
           }
         },
@@ -3912,7 +4045,7 @@
       "version": "1.7.0",
       "label": "Text 8 copy",
       "config": {
-        "text": "<p>Question 2</p><p>Rising Temperatures induces many other issues that are ongoing in our world. One major issue is rising sea levels. As Ice in the north and south melt, the sea levels rise. Coastal cities lose inches every year to the waters. In this question, we will be mapping out the sea levels across the world. Additionally, Look back on the previous page and see if the rises in temperature correspond to the rising sea levels on this page.</p>",
+        "text": "<p><strong style=\"font-size: 15px;\">Question 2</strong></p><p>Rising Temperatures induces many other issues that are ongoing in our world. One major issue is rising sea levels. As ice in the north and south melt, the sea levels rise. Coastal cities lose inches every year to the waters. In this question, we will be mapping out the sea levels across the world. Additionally, we can look back to the previous page and see if the rises in temperature correspond to the rising sea levels on this page.</p>",
         "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
@@ -3957,7 +4090,7 @@
       "config": {
         "instructText": [
           "Pick one data point from the dataset.",
-          "Check the expected sea level rise from the dataaset..",
+          "Check the expected sea level rise from the dataset.",
           "Use the value to determine circle size.",
           "Draw the circle size location of the point. ",
           "Repeat for every point in the dataset. "
@@ -3966,7 +4099,7 @@
           "https://services2.arcgis.com/FiaPA4ga0iQKduv3/arcgis/rest/services/COOPS_Sealevel_Trend_Stations_v1/FeatureServer"
         ],
         "isClicked": false,
-        "codeText": "<code>for <span style=\"color:red\">point</span> in Sealevel_Trend_Stationss:<br/>\n&nbsp;&nbsp;size = point[data] <br/>\n&nbsp;&nbsp;circle_size  = bounds[size]<br/>\n&nbsp;&nbsp;map.plot(circle_size)</code>\n",
+        "codeText": "<code>for <span style=\"color:red\">point</span> in Sealevel_Trend_Stations:<br/>\n&nbsp;&nbsp;size = point[data] <br/>\n&nbsp;&nbsp;circle_size  = bounds[size]<br/>\n&nbsp;&nbsp;map.plot(circle_size)</code>\n",
         "isChecked": false
       },
       "id": "widget_38",
@@ -4516,7 +4649,7 @@
           "textExpression": null,
           "linkParam": {
             "linkType": "PAGE",
-            "value": "page_2",
+            "value": "page_13",
             "openType": "_self"
           }
         },
@@ -4771,7 +4904,31 @@
           "canSearch": true,
           "canNavigation": true
         },
-        "isUseCustomMapState": false
+        "isUseCustomMapState": true,
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 147914381.897889,
+            "targetGeometry": {
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "x": 7114989.363606332,
+              "y": 3744569.69328452
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "wkid": 102100
+            },
+            "xmin": -849137.487480687,
+            "ymin": -5237086.878334501,
+            "xmax": 15079116.21469335,
+            "ymax": 12726226.264903542
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        }
       },
       "id": "widget_48",
       "layouts": {
@@ -4794,7 +4951,7 @@
           },
           "linkParam": {
             "linkType": "PAGE",
-            "value": "page_14",
+            "value": "page_15",
             "openType": "_self"
           }
         },
@@ -5160,7 +5317,7 @@
       "version": "1.7.0",
       "label": "Text 10 copy",
       "config": {
-        "text": "<p><strong style=\"font-size: 13px;\">Question 2</strong><span style=\"font-size: 13px;\">: Please use the Population Counts dataset (which you used above!) and a new Country_Size dataset (which you can explore below) to shade each country based off of its population density in square miles. The population density is equal to the number of people in a country divided by the size of the country – that gives you the average number of people in any one spot! Remember that each dataset is organized by country names. Please make any country with a population density below 47 people per square mile green, any country with population density between 48-966 people per square mile white, and any country with more than 967 people per square mile blue!</span></p>",
+        "text": "<p><strong style=\"font-size: 13px;\">Question 2</strong><span style=\"font-size: 13px;\">: Please use the Population Counts dataset (which you used on the previous page!) and a new Country_Size dataset (which you can explore below) to shade each country based off of its population density in square miles. The population density is equal to the number of people in a country divided by the size of the country – that gives you the average number of people in any one spot! Remember that each dataset is organized by country names. Please make any country with a population density below 47 people per square mile white, any country with population density between 48-966 people per square mile green, and any country with more than 967 people per square mile blue!</span></p>",
         "placeholder": "Double click to edit text",
         "style": {
           "verticalAlign": "start",
@@ -5187,8 +5344,8 @@
           ""
         ],
         "isClicked": false,
-        "codeText": "<code>for country in population_counts:<br/>\n&nbsp;&nbsp;population = population_counts[country] <br/>\n&nbsp;&nbsp;density  = population / country_size[country]<br/>\n&nbsp;&nbsp;if density < 47: <br/>\n&nbsp;&nbsp;&nbsp;country.color(“green”) <br/>\n&nbsp;&nbsp;else if density < 966: <br/>\n&nbsp;&nbsp;&nbsp;country.color(“white”) <br/>\n&nbsp;&nbsp;else: <br/>\n&nbsp;&nbsp;&nbsp;country.color(“blue”)<br/>\n",
-        "isChecked": false
+        "codeText": "<code>for country in population_counts:<br/>\n&nbsp;&nbsp;population = population_counts[country] <br/>\n&nbsp;&nbsp;density  = population / country_size[country]<br/>\n&nbsp;&nbsp;if density < 47: <br/>\n&nbsp;&nbsp;&nbsp;country.color(“white”) <br/>\n&nbsp;&nbsp;else if density < 966: <br/>\n&nbsp;&nbsp;&nbsp;country.color(“green”) <br/>\n&nbsp;&nbsp;else: <br/>\n&nbsp;&nbsp;&nbsp;country.color(“blue”)<br/>\n",
+        "isChecked": true
       },
       "id": "widget_53",
       "useMapWidgetIds": [
@@ -5206,7 +5363,31 @@
           "canSearch": true,
           "canNavigation": true
         },
-        "isUseCustomMapState": false
+        "isUseCustomMapState": true,
+        "initialMapState": {
+          "viewPoint": {
+            "rotation": 0,
+            "scale": 147914381.897889,
+            "targetGeometry": {
+              "spatialReference": {
+                "wkid": 102100
+              },
+              "x": 5131788.863248119,
+              "y": 4269641.020057313
+            }
+          },
+          "extent": {
+            "spatialReference": {
+              "wkid": 102100
+            },
+            "xmin": -366785.2034728937,
+            "ymin": -4712015.551561708,
+            "xmax": 10630362.929969132,
+            "ymax": 13251297.591676334
+          },
+          "rotation": 0,
+          "viewType": "2d"
+        }
       },
       "id": "widget_54",
       "layouts": {
@@ -6040,6 +6221,514 @@
       },
       "id": "widget_101",
       "useDataSources": []
+    },
+    "widget_102": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 1 copy copy copy 3 copy copy",
+      "config": {
+        "functionConfig": {
+          "toolTip": "",
+          "toolTipExpression": null,
+          "text": "Previous Page",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_10",
+            "openType": "_self"
+          },
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M15 7.5a.522.522 0 01-.516.527H2.976L6.473 11.6a.535.535 0 010 .746.508.508 0 01-.73 0L1 7.5l4.743-4.846a.508.508 0 01.73 0 .535.535 0 010 .746L2.976 6.973h11.508c.285 0 .516.236.516.527z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 16
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 16
+              }
+            }
+          },
+          "useCustom": false
+        }
+      },
+      "id": "widget_102",
+      "useDataSources": []
+    },
+    "widget_103": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy 2",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_103",
+      "useDataSources": []
+    },
+    "widget_104": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy copy 2",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_104",
+      "useDataSources": []
+    },
+    "widget_105": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 2 copy 2",
+      "config": {
+        "functionConfig": {
+          "text": "1. Timezones",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_2",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "background": {
+                "color": "#f0f0f0",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "0px"
+              },
+              "text": {
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 14
+              }
+            },
+            "regular": {
+              "background": {
+                "color": "#fff",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#c5c5c5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#181818",
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#181818",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_105",
+      "useDataSources": []
+    },
+    "widget_106": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 2 copy copy",
+      "config": {
+        "functionConfig": {
+          "text": "2. Climate Change",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_2",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "background": {
+                "color": "#f0f0f0",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "0px"
+              },
+              "text": {
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 14
+              }
+            },
+            "regular": {
+              "background": {
+                "color": "#fff",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#c5c5c5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#181818",
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#181818",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_106",
+      "useDataSources": []
+    },
+    "widget_107": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "populations copy",
+      "config": {
+        "functionConfig": {
+          "text": "3. World Populations",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_11",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "background": {
+                "color": "#f0f0f0",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "0px"
+              },
+              "text": {
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 14
+              }
+            },
+            "regular": {
+              "background": {
+                "color": "#fff",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#c5c5c5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#181818",
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#181818",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_107",
+      "useDataSources": []
+    },
+    "widget_108": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "internet cables copy",
+      "config": {
+        "functionConfig": {
+          "text": "4. Internet Cables",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_16",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "background": {
+                "color": "#f0f0f0",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "0px"
+              },
+              "text": {
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 14
+              }
+            },
+            "regular": {
+              "background": {
+                "color": "#fff",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#c5c5c5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#181818",
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#181818",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_108",
+      "useDataSources": []
+    },
+    "widget_109": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "park deserts copy",
+      "config": {
+        "functionConfig": {
+          "text": "5. Park Deserts",
+          "textExpression": null,
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_13",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "useCustom": true,
+          "customStyle": {
+            "hover": {
+              "background": {
+                "color": "#f0f0f0",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "width": "0px"
+              },
+              "text": {
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "size": 14
+              }
+            },
+            "regular": {
+              "background": {
+                "color": "#fff",
+                "fillType": "fill"
+              },
+              "border": {
+                "type": "solid",
+                "color": "#c5c5c5",
+                "width": "1px"
+              },
+              "text": {
+                "color": "#181818",
+                "size": "20px"
+              },
+              "borderRadius": {
+                "unit": "px",
+                "number": [
+                  2,
+                  2,
+                  2,
+                  2
+                ]
+              },
+              "iconProps": {
+                "color": "#181818",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_109",
+      "useDataSources": []
     }
   },
   "widgetsManifest": {},
@@ -6138,5 +6827,5 @@
     }
   ],
   "customTheme": {},
-  "timestamp": 1649904112748
+  "timestamp": 1650675191359
 }
