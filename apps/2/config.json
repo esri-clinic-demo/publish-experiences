@@ -190,6 +190,45 @@
       "header": false,
       "footer": false,
       "bodyBackgroundColor": "var(--primary-100)"
+    },
+    "page_18": {
+      "id": "page_18",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_27"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "populations_intro",
+      "header": false,
+      "footer": false
+    },
+    "page_19": {
+      "id": "page_19",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_28"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "deserts_intro",
+      "header": false,
+      "footer": false
+    },
+    "page_20": {
+      "id": "page_20",
+      "mode": "FIT_WINDOW",
+      "type": "NORMAL",
+      "layout": {
+        "LARGE": "layout_29"
+      },
+      "isDefault": false,
+      "isVisible": true,
+      "label": "cables_intro",
+      "header": false,
+      "footer": false
     }
   },
   "layouts": {
@@ -635,8 +674,8 @@
           "bbox": {
             "left": "3.4%",
             "right": "51.9%",
-            "top": "72.7%",
-            "bottom": "10.9%",
+            "top": "69.3%",
+            "bottom": "14.3%",
             "width": "44.7%",
             "height": "16.4%"
           },
@@ -745,6 +784,30 @@
           },
           "widgetId": "widget_13",
           "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "1.3%",
+            "right": "94.5%",
+            "top": "90.2%",
+            "bottom": "2.8%",
+            "width": "4.2%",
+            "height": "7.0%"
+          },
+          "widgetId": "widget_113",
+          "isPending": false
         }
       },
       "order": [
@@ -753,7 +816,8 @@
         "2",
         "3",
         "4",
-        "5"
+        "5",
+        "6"
       ]
     },
     "layout_4": {
@@ -897,6 +961,30 @@
           },
           "widgetId": "widget_26",
           "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "0.9%",
+            "right": "94.8%",
+            "top": "89.8%",
+            "bottom": "3.2%",
+            "width": "4.2%",
+            "height": "7.0%"
+          },
+          "widgetId": "widget_114",
+          "isPending": false
         }
       },
       "order": [
@@ -905,7 +993,8 @@
         "2",
         "3",
         "4",
-        "5"
+        "5",
+        "6"
       ]
     },
     "layout_6": {
@@ -967,17 +1056,17 @@
             "left": "63.6%",
             "right": "5.1%",
             "top": "22.6%",
-            "bottom": "27.4%",
+            "bottom": "15.8%",
             "width": "31.3%",
-            "height": "50.0%"
+            "height": "61.6%"
           },
           "widgetId": "widget_22",
           "setting": {
             "autoProps": {
               "right": false,
               "left": true,
-              "top": false,
-              "bottom": true
+              "top": true,
+              "bottom": false
             },
             "vCenter": false,
             "hCenter": false
@@ -1007,7 +1096,7 @@
           },
           "isPending": false
         },
-        "5": {
+        "6": {
           "type": "WIDGET",
           "setting": {
             "style": {},
@@ -1021,14 +1110,14 @@
             }
           },
           "bbox": {
-            "left": "85.2%",
+            "left": "90.7%",
             "right": "5.1%",
-            "top": "78.3%",
-            "bottom": "16.6%",
-            "width": "9.7%",
-            "height": "5.0%"
+            "top": "87.8%",
+            "bottom": "5.2%",
+            "width": "4.2%",
+            "height": "7.0%"
           },
-          "widgetId": "widget_27",
+          "widgetId": "widget_115",
           "isPending": false
         }
       },
@@ -1037,7 +1126,7 @@
         "2",
         "3",
         "4",
-        "5"
+        "6"
       ]
     },
     "layout_8": {
@@ -1116,12 +1205,37 @@
           },
           "widgetId": "widget_28",
           "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "1.6%",
+            "right": "94.1%",
+            "top": "89.9%",
+            "bottom": "3.1%",
+            "width": "4.2%",
+            "height": "7.0%"
+          },
+          "widgetId": "widget_116",
+          "isPending": false
         }
       },
       "order": [
         "1",
         "0",
-        "2"
+        "2",
+        "3"
       ]
     },
     "layout_10": {
@@ -1265,6 +1379,30 @@
           },
           "widgetId": "widget_34",
           "isPending": false
+        },
+        "6": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "1.9%",
+            "right": "93.9%",
+            "top": "89.1%",
+            "bottom": "3.9%",
+            "width": "4.2%",
+            "height": "7.0%"
+          },
+          "widgetId": "widget_117",
+          "isPending": false
         }
       },
       "order": [
@@ -1273,7 +1411,8 @@
         "2",
         "3",
         "4",
-        "5"
+        "5",
+        "6"
       ]
     },
     "layout_12": {
@@ -2794,6 +2933,298 @@
     "layout_26": {
       "type": "FIXED",
       "label": "Map FixedLayout"
+    },
+    "layout_27": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "3.4%",
+            "right": "5.0%",
+            "top": "14.4%",
+            "bottom": "14.2%",
+            "width": "91.6%",
+            "height": "71.4%"
+          },
+          "widgetId": "widget_122",
+          "setting": {
+            "autoProps": {
+              "right": true,
+              "left": false,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": false,
+              "bottom": true
+            }
+          },
+          "bbox": {
+            "left": "28.1%",
+            "right": "28.2%",
+            "top": "2.2%",
+            "bottom": "87.7%",
+            "width": "43.7%",
+            "height": "10.1%"
+          },
+          "widgetId": "widget_123",
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "2.1%",
+            "right": "94.3%",
+            "top": "90.0%",
+            "bottom": "4.2%",
+            "width": "3.5%",
+            "height": "5.8%"
+          },
+          "widgetId": "widget_124",
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "83.5%",
+            "right": "2.2%",
+            "top": "91.4%",
+            "bottom": "3.4%",
+            "width": "14.3%",
+            "height": "5.2%"
+          },
+          "widgetId": "widget_125",
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "layout_28": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "0.0%",
+            "right": "0.0%",
+            "top": "0.0%",
+            "bottom": "0.0%",
+            "width": "100.0%",
+            "height": "100.0%"
+          },
+          "widgetId": "widget_118",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "39.7%",
+            "right": "32.2%",
+            "top": "5.3%",
+            "bottom": "86.0%",
+            "width": "28.1%",
+            "height": "8.7%"
+          },
+          "widgetId": "widget_119",
+          "setting": {
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "1.7%",
+            "right": "94.8%",
+            "top": "91.5%",
+            "bottom": "2.7%",
+            "width": "3.5%",
+            "height": "5.8%"
+          },
+          "widgetId": "widget_120",
+          "isPending": false
+        },
+        "3": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "84.2%",
+            "right": "1.5%",
+            "top": "91.6%",
+            "bottom": "3.2%",
+            "width": "14.3%",
+            "height": "5.2%"
+          },
+          "widgetId": "widget_121",
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "layout_29": {
+      "type": "FIXED",
+      "content": {
+        "0": {
+          "type": "WIDGET",
+          "bbox": {
+            "left": "3.2%",
+            "right": "3.1%",
+            "top": "7.5%",
+            "bottom": "15.3%",
+            "width": "93.7%",
+            "height": "77.2%"
+          },
+          "widgetId": "widget_110",
+          "setting": {
+            "autoProps": {
+              "left": true,
+              "right": false,
+              "top": false,
+              "bottom": true
+            },
+            "vCenter": false,
+            "hCenter": false
+          },
+          "isPending": false
+        },
+        "1": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "right": false,
+              "left": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "79.7%",
+            "right": "3.1%",
+            "top": "89.3%",
+            "bottom": "4.5%",
+            "width": "17.2%",
+            "height": "6.2%"
+          },
+          "widgetId": "widget_111",
+          "isPending": false
+        },
+        "2": {
+          "type": "WIDGET",
+          "setting": {
+            "style": {},
+            "vCenter": false,
+            "hCenter": false,
+            "autoProps": {
+              "left": false,
+              "right": true,
+              "top": true,
+              "bottom": false
+            }
+          },
+          "bbox": {
+            "left": "3.2%",
+            "right": "92.6%",
+            "top": "88.9%",
+            "bottom": "4.1%",
+            "width": "4.2%",
+            "height": "7.0%"
+          },
+          "widgetId": "widget_112",
+          "isPending": false
+        }
+      },
+      "order": [
+        "0",
+        "1",
+        "2"
+      ]
     }
   },
   "exbVersion": "1.7.0",
@@ -3509,49 +3940,6 @@
         }
       },
       "id": "widget_26",
-      "useDataSources": []
-    },
-    "widget_27": {
-      "uri": "widgets/common/button/",
-      "version": "1.7.0",
-      "label": "Button 1 copy copy copy 2",
-      "config": {
-        "functionConfig": {
-          "toolTip": "",
-          "toolTipExpression": null,
-          "text": "Next Page",
-          "textExpression": null,
-          "icon": {
-            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1 7.5c0-.291.231-.527.516-.527h11.508L9.527 3.4a.535.535 0 010-.746.508.508 0 01.73 0L15 7.5l-4.743 4.846a.508.508 0 01-.73 0 .535.535 0 010-.746l3.497-3.573H1.516A.522.522 0 011 7.5z\" fill=\"#000\"></path></svg>",
-            "position": "LEFT"
-          },
-          "linkParam": {
-            "linkType": "PAGE",
-            "value": "page_7",
-            "openType": "_self"
-          }
-        },
-        "styleConfig": {
-          "themeStyle": {
-            "quickStyleType": "primary"
-          },
-          "customStyle": {
-            "regular": {
-              "iconProps": {
-                "color": "#fff",
-                "size": 14
-              }
-            },
-            "hover": {
-              "iconProps": {
-                "size": 14
-              }
-            }
-          },
-          "useCustom": false
-        }
-      },
-      "id": "widget_27",
       "useDataSources": []
     },
     "widget_28": {
@@ -6558,7 +6946,7 @@
           "textExpression": null,
           "linkParam": {
             "linkType": "PAGE",
-            "value": "page_16",
+            "value": "page_20",
             "openType": "_self"
           }
         },
@@ -6699,6 +7087,604 @@
       },
       "id": "widget_109",
       "useDataSources": []
+    },
+    "widget_110": {
+      "uri": "widgets/common/image/",
+      "version": "1.7.0",
+      "label": "Image 7",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_110/1650665266423.png",
+            "originalUrl": "${appResourceUrl}/images/widget_110/1650665266423.png",
+            "fileName": "1650665266423.png",
+            "originalName": "9d72ca_f41299cebd124d0885883de6a3afbded~mv2.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1650665266423",
+            "isUseCompress": false,
+            "originalWidth": 1221,
+            "originalHeight": 639
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FILL"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_110"
+    },
+    "widget_111": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 3 copy copy",
+      "config": {
+        "functionConfig": {
+          "text": "Enter",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1 7.5c0-.291.231-.527.516-.527h11.508L9.527 3.4a.535.535 0 010-.746.508.508 0 01.73 0L15 7.5l-4.743 4.846a.508.508 0 01-.73 0 .535.535 0 010-.746l3.497-3.573H1.516A.522.522 0 011 7.5z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_16",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_111",
+      "useDataSources": []
+    },
+    "widget_112": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy copy copy 2",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_112",
+      "useDataSources": []
+    },
+    "widget_113": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy copy copy 3",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_113",
+      "useDataSources": []
+    },
+    "widget_114": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy copy copy 4",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_114",
+      "useDataSources": []
+    },
+    "widget_115": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy copy copy 5",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_115",
+      "useDataSources": []
+    },
+    "widget_116": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy copy copy 6",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_116",
+      "useDataSources": []
+    },
+    "widget_117": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy copy copy 7",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_117",
+      "useDataSources": []
+    },
+    "widget_118": {
+      "uri": "widgets/common/image/",
+      "version": "1.7.0",
+      "label": "Image 8",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_118/1650665483640.jpg",
+            "originalUrl": "${appResourceUrl}/images/widget_118/1650665483640.jpg",
+            "fileName": "1650665483640.jpg",
+            "originalName": "4438971.jpg",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/jpeg",
+            "originalId": "1650665483640",
+            "isUseCompress": false,
+            "originalWidth": 1600,
+            "originalHeight": 1200
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_118"
+    },
+    "widget_119": {
+      "uri": "widgets/common/text/",
+      "version": "1.7.0",
+      "label": "Text 20",
+      "config": {
+        "text": "<p><strong style=\"font-size: 50px; color: var(--light); background-color: var(--primary);\">Park Deserts</strong></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        },
+        "tooltip": {
+          "name": "",
+          "parts": [
+            {
+              "type": "STRING",
+              "exp": "\"\""
+            }
+          ]
+        }
+      },
+      "id": "widget_119"
+    },
+    "widget_120": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy copy copy copy",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_120",
+      "useDataSources": []
+    },
+    "widget_121": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 3 copy copy copy",
+      "config": {
+        "functionConfig": {
+          "text": "Enter",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1 7.5c0-.291.231-.527.516-.527h11.508L9.527 3.4a.535.535 0 010-.746.508.508 0 01.73 0L15 7.5l-4.743 4.846a.508.508 0 01-.73 0 .535.535 0 010-.746l3.497-3.573H1.516A.522.522 0 011 7.5z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_13",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_121",
+      "useDataSources": []
+    },
+    "widget_122": {
+      "uri": "widgets/common/image/",
+      "version": "1.7.0",
+      "label": "Image 9",
+      "config": {
+        "functionConfig": {
+          "altText": "",
+          "toolTip": "",
+          "linkParam": {},
+          "scale": "Fit",
+          "imageParam": {
+            "url": "${appResourceUrl}/images/widget_122/1650665679146.png",
+            "originalUrl": "${appResourceUrl}/images/widget_122/1650665679146.png",
+            "fileName": "1650665679146.png",
+            "originalName": "Screen Shot 2022-04-22 at 3.05.33 PM.png",
+            "imgSourceType": "BY_UPLOAD",
+            "fileFormat": "image/png",
+            "originalId": "1650665679146",
+            "isUseCompress": false,
+            "originalWidth": 2390,
+            "originalHeight": 1244
+          },
+          "imageDisplayQualityMode": "ORIGINAL",
+          "imgSourceType": "",
+          "srcExpression": null,
+          "imageFillMode": "FIT"
+        },
+        "styleConfig": {}
+      },
+      "id": "widget_122"
+    },
+    "widget_123": {
+      "uri": "widgets/common/text/",
+      "version": "1.7.0",
+      "label": "Text 20 copy",
+      "config": {
+        "text": "<p style=\"text-align: center;\"><strong style=\"font-size: 50px; background-color: var(--primary); color: var(--light);\">World Populations</strong></p>",
+        "style": {
+          "verticalAlign": "start",
+          "wrap": true
+        },
+        "tooltip": {
+          "name": "",
+          "parts": [
+            {
+              "type": "STRING",
+              "exp": "\"\""
+            }
+          ]
+        }
+      },
+      "id": "widget_123"
+    },
+    "widget_124": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 4 copy copy copy 2 copy",
+      "config": {
+        "functionConfig": {
+          "text": "",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M15.29 6.208L8 1 .71 6.208a.5.5 0 10.58.813L2 6.515V15h12V6.514l.71.507a.5.5 0 00.58-.813zM13 5.8L8 2.229 3 5.8V14h3v-4h4v4h3V5.8zM9 14H7v-3h2v3z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_0",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_124",
+      "useDataSources": []
+    },
+    "widget_125": {
+      "uri": "widgets/common/button/",
+      "version": "1.7.0",
+      "label": "Button 3 copy copy copy 2",
+      "config": {
+        "functionConfig": {
+          "text": "Enter",
+          "textExpression": null,
+          "icon": {
+            "data": "<svg viewBox=\"0 0 16 16\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M1 7.5c0-.291.231-.527.516-.527h11.508L9.527 3.4a.535.535 0 010-.746.508.508 0 01.73 0L15 7.5l-4.743 4.846a.508.508 0 01-.73 0 .535.535 0 010-.746l3.497-3.573H1.516A.522.522 0 011 7.5z\" fill=\"#000\"></path></svg>",
+            "position": "LEFT"
+          },
+          "linkParam": {
+            "linkType": "PAGE",
+            "value": "page_11",
+            "openType": "_self"
+          }
+        },
+        "styleConfig": {
+          "themeStyle": {
+            "quickStyleType": "primary"
+          },
+          "useCustom": false,
+          "customStyle": {
+            "regular": {
+              "iconProps": {
+                "color": "#fff",
+                "size": 14
+              }
+            },
+            "hover": {
+              "iconProps": {
+                "color": "#050505",
+                "size": 14
+              }
+            }
+          }
+        }
+      },
+      "id": "widget_125",
+      "useDataSources": []
     }
   },
   "widgetsManifest": {},
@@ -6781,13 +7767,22 @@
       "page_10": []
     },
     {
+      "page_18": []
+    },
+    {
       "page_11": []
     },
     {
       "page_15": []
     },
     {
+      "page_19": []
+    },
+    {
       "page_13": []
+    },
+    {
+      "page_20": []
     },
     {
       "page_16": []
@@ -6797,5 +7792,5 @@
     }
   ],
   "customTheme": {},
-  "timestamp": 1650675191359
+  "timestamp": 1650691005487
 }
