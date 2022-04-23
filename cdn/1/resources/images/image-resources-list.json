@@ -1,0 +1,72 @@
+{
+  "1649827387697": {
+    "originalName": "Screen Shot 2022-04-12 at 10.22.57 PM.png",
+    "fileName": "1649827387697.png",
+    "size": 293933,
+    "url": "${appResourceUrl}/images/widget_59/1649827387697.png",
+    "created": 1649827387697,
+    "resourcesPrefix": "images/widget_59",
+    "referedIds": [],
+    "originId": "1649827387697",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 1074,
+    "originalHeight": 332
+  },
+  "1649827551648": {
+    "originalName": "2external-content.duckduckgo.com.jpg",
+    "fileName": "1649827551648.jpg",
+    "size": 123458,
+    "url": "${appResourceUrl}/images/widget_61/1649827551648.jpg",
+    "created": 1649827551648,
+    "resourcesPrefix": "images/widget_61",
+    "referedIds": [],
+    "originId": "1649827551648",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1600,
+    "originalHeight": 1200
+  },
+  "1650665266423": {
+    "originalName": "9d72ca_f41299cebd124d0885883de6a3afbded~mv2.png",
+    "fileName": "1650665266423.png",
+    "size": 1093144,
+    "url": "${appResourceUrl}/images/widget_110/1650665266423.png",
+    "created": 1650665266423,
+    "resourcesPrefix": "images/widget_110",
+    "referedIds": [],
+    "originId": "1650665266423",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 1221,
+    "originalHeight": 639
+  },
+  "1650665483640": {
+    "originalName": "4438971.jpg",
+    "fileName": "1650665483640.jpg",
+    "size": 532368,
+    "url": "${appResourceUrl}/images/widget_118/1650665483640.jpg",
+    "created": 1650665483640,
+    "resourcesPrefix": "images/widget_118",
+    "referedIds": [],
+    "originId": "1650665483640",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 1600,
+    "originalHeight": 1200
+  },
+  "1650665679146": {
+    "originalName": "Screen Shot 2022-04-22 at 3.05.33 PM.png",
+    "fileName": "1650665679146.png",
+    "size": 3537122,
+    "url": "${appResourceUrl}/images/widget_122/1650665679146.png",
+    "created": 1650665679146,
+    "resourcesPrefix": "images/widget_122",
+    "referedIds": [],
+    "originId": "1650665679146",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 2390,
+    "originalHeight": 1244
+  }
+}
